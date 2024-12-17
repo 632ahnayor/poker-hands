@@ -210,3 +210,30 @@ int main() {
 ```
 
 
+### Input problem
+
+I could probably get away with replacing the card variables with arrays and use loops to receive inputs.
+```
+    int rank[5];
+    char suit[5];
+
+    for (int i=0; i < 5; i++) {
+        scanf("%d %c", &rank[i], &suit[i]);
+    }
+```
+
+Or using struct
+```
+typedef struct {
+    int rank;
+    char suit;
+} Card;
+```
+```
+Card card[5];
+
+for (int i=0; i < 5; i++) {
+    scanf("%d %c", &card[i].rank, &card[i].suit);
+}
+```
+
