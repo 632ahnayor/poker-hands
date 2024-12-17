@@ -4,7 +4,7 @@ I'm going to walk you through my assignment on poker hands in C and improvements
 
 
 ## About Poker Hands
-![image](https://github.com/user-attachments/assets/59e32163-6247-4d29-acca-7b6f7d60f840)
+![image](https://github.com/user-attachments/assets/59e32163-6247-4d29-acca-7b6f7d60f840 | width=100)
 
 Here's a handy diagram for a quick overview.
 
